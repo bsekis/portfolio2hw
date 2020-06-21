@@ -1,0 +1,22 @@
+body {
+    font-family: 'Cinzel', serif;
+
+}
+
+.max-viewport {
+    min-height:100vh;
+}
+
+.transparent {
+    background-color: rgba(6, 37, 175, 0.7);
+}
+
+#banner, 
+#social {
+background:linear-gradient(rgba(19, 37, 139, 0.6),rgba(139,69,19,0.6)),
+url(images/port-image.jpg);
+background-attachment: fixed;
+background-position: center;
+background-repeat: non-repeat;
+background-size: cover;
+} 
